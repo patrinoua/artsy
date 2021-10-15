@@ -8,7 +8,7 @@
 
 ### Infrastructure [link](https://github.com/patrinoua/artsy/blob/main/infrastructure.md)
 
-### AWS [link](https://github.com/patrinoua/artsy/blob/main/aws)
+### AWS [link](https://github.com/patrinoua/artsy/blob/main/aws.md)
 
 ### AWS-2fa [link](https://github.com/patrinoua/artsy/blob/main/aws-2fa.md)
 
