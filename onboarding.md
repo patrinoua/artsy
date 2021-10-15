@@ -1,15 +1,14 @@
-Mentor: @pvinis 
-Manager: @admbtlr 
-
+Mentor:
+Manager:
 ## Your first day
 
 _Goal: I've met my manager, mentor, and some members of the engineering team
 (over lunch!). I've logged into slack, google (artsymail), Jira, 1Password, and
 know how to use the coffee machine._
 
-- [x] ✅ Add a cool pic of yourself to Slack and Jira.
-- [x] ✅ Update your Slack profile with new personal information such as Github and your AWS username (which your manager should have given you).
-- [x] ✅ Say hi in [#dev](https://artsy.slack.com/messages/dev) with a :wave:.
+- [ ] ✅ Add a cool pic of yourself to Slack and Jira.
+- [ ] ✅ Update your Slack profile with new personal information such as Github and your AWS username (which your manager should have given you).
+- [ ] ✅ Say hi in [#dev](https://artsy.slack.com/messages/dev) with a :wave:.
 
 ## Your first week
 
@@ -46,26 +45,26 @@ reading it early while setting up your local environment.
 
 #### Through the general Artsy onboarding:
 
-- [x] You have access to 1Password for any shared credentials (check your email for an invite), Gmail, [Bamboo](https://artsy.bamboohr.com/), [Slack](https://artsy.slack.com)
-- [x] You understand the Artsy organization at a high level
-- [x] You've learned [Artsy's values](https://www.notion.so/artsy/Artsy-Values-Behaviors-42a6905b3b4c44e097f860d3e847cc16)
-- [x] You've read the [most recent board memo](https://www.notion.so/artsy/Artsy-Strategy-OKRs-Homepage-0bdefa3cf1d243b28d047bf1353695b4#abfea49090524a7da6288584d5254390) detailing current plans and challenges
-- [x] Your calendar includes org-wide events (such as weekly all-hands and monthly demo days) and engineering-wide events (such as weekly stand-ups and incident-review).
+- [ ] You have access to 1Password for any shared credentials (check your email for an invite), Gmail, [Bamboo](https://artsy.bamboohr.com/), [Slack](https://artsy.slack.com)
+- [ ] You understand the Artsy organization at a high level
+- [ ] You've learned [Artsy's values](https://www.notion.so/artsy/Artsy-Values-Behaviors-42a6905b3b4c44e097f860d3e847cc16)
+- [ ] You've read the [most recent board memo](https://www.notion.so/artsy/Artsy-Strategy-OKRs-Homepage-0bdefa3cf1d243b28d047bf1353695b4#abfea49090524a7da6288584d5254390) detailing current plans and challenges
+- [ ] Your calendar includes org-wide events (such as weekly all-hands and monthly demo days) and engineering-wide events (such as weekly stand-ups and incident-review).
 
 #### Developer set-up:
 
 _Remember to review *all* setup scripts before executing them :)_
 
-- [x] 📧 Check your email for 1password invite.
-- [x] ✅ [Enable two-factor authentication on your GitHub account](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/). _You'll need this enabled to join the Artsy GitHub org. You can use [1Password as an authenticator](https://support.1password.com/one-time-passwords/) for 2fa. You may also need to generate a [personal token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-[…]and-line) to use GitHub from the command line. Note: Do not set up Git SSH instead of the personal token, since many scripts at Artsy don't use it._
-- [x] 👤 Update your GitHub account with your real name; that way teammates will be able to easily find and tag you in PRs and other communications.
-- [x] 👤 Update your [local git installation](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git) with the same email address you use to login to GitHub.
-- [x] ✅ Set up MFA for your AWS account in your [account settings](https://console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials). You can use 1Password to store unique passwords and it can also serve as a 2FA device.
-- [x] 💻 Download your favorite text editor and terminal application. A lot of us use VSCode and it will be installed for you as part of the initial developer setup script in the next step, along with the [Artsy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Artsy.artsy-studio-extension-pack)
-- [x] 💻 Follow Artsy Engineering's [initial developer setup](https://github.com/artsy/potential/blob/main/scripts/setup)
+- [ ] 📧 Check your email for 1password invite.
+- [ ] ✅ [Enable two-factor authentication on your GitHub account](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/). _You'll need this enabled to join the Artsy GitHub org. You can use [1Password as an authenticator](https://support.1password.com/one-time-passwords/) for 2fa. You may also need to generate a [personal token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-[…]and-line) to use GitHub from the command line. Note: Do not set up Git SSH instead of the personal token, since many scripts at Artsy don't use it._
+- [ ] 👤 Update your GitHub account with your real name; that way teammates will be able to easily find and tag you in PRs and other communications.
+- [ ] 👤 Update your [local git installation](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git) with the same email address you use to login to GitHub.
+- [ ] ✅ Set up MFA for your AWS account in your [account settings](https://console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials). You can use 1Password to store unique passwords and it can also serve as a 2FA device.
+- [ ] 💻 Download your favorite text editor and terminal application. A lot of us use VSCode and it will be installed for you as part of the initial developer setup script in the next step, along with the [Artsy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Artsy.artsy-studio-extension-pack)
+- [ ] 💻 Follow Artsy Engineering's [initial developer setup](https://github.com/artsy/potential/blob/main/scripts/setup)
       which provides a base for many artsy projects. Confirm how you want to configure it (ask questions if you're
       unsure about the options), and run it on your computer.
-- [x] 💻👯 If you haven't had your AWS IAM user set up or Artsy Github access, ping your manager.
+- [ ] 💻👯 If you haven't had your AWS IAM user set up or Artsy Github access, ping your manager.
 - [ ] 💻👯 Work with your mentor to get set up with [Artsy's VPN](https://github.com/artsy/infrastructure/blob/master/README.md#vpn).
 - [ ] 💻 Follow [these instructions](https://github.com/artsy/README/blob/main/playbooks/hokusai.md#setup) to get set up with hokusai, our internal CLI for managing applications deployed to our Kubernetes cluster. Verify your Hokusai setup by finding an artwork in Gravity's database:
   - Clone [Gravity](https://github.com/artsy/gravity)
@@ -136,7 +135,7 @@ infrastructure.
 
 Learn about our on-call process.
 
-- [x] ✅ Join the [#incidents](https://artsy.slack.com/messages/incidents/) slack channel and scan through some recent threads.
+- [ ] ✅ Join the [#incidents](https://artsy.slack.com/messages/incidents/) slack channel and scan through some recent threads.
 - [ ] 📖 Read the [support doc](https://github.com/artsy/README/blob/main/playbooks/support#readme) about how support incidents are handled by our on-call rotation.
 - [ ] 📹 Watch the [on-call onboarding video](https://drive.google.com/file/d/1nGtNLCwP9zOBxhocnAFI-Ua1xs7eJYyD/view).
 - [ ] 🔍 Ask the [#on-call-working-group](https://artsy.slack.com/messages/on-call-working-group/) slack channel for access to [OpsGenie](https://artsy.app.opsgenie.com/incident/list) and browse some of the "Resolved" incidents. Click into the incidents' postmortems for more information.
@@ -168,10 +167,10 @@ or something is confusing.
 Get to know your manager and mentor! If you will be working remotely, take extra
 care this week to get to know the team.
 
-- [x] ✅ Get coffee/tea with your mentor.
-- [x] ✅ Get coffee/tea with your manager.
+- [ ] ✅ Get coffee/tea with your mentor.
+- [ ] ✅ Get coffee/tea with your manager.
 - [ ] ✅ Schedule coffee/tea with [Sam](mailto:samuel.rozenberg@artsymail.com) in the first few weeks.
-- [x] 📝 Keep track of questions/feedback you have as you go through this process
+- [ ] 📝 Keep track of questions/feedback you have as you go through this process
 - [ ] 👯 Work with your mentor to get access to relevant calendars
   - [ ] 📅 [Open Engineering Calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_g81io4a98ddvn1ih1a3lm2ocd4%40group.calendar.google.com&ctz=America%2FNew_York)
   - [ ] 📅 [Out of Office Calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_4l9b71vlvtn9nanc465efqlp80%40group.calendar.google.com&ctz=America%2FNew_York)
@@ -181,9 +180,9 @@ care this week to get to know the team.
 
 ## End of first week
 
-- [x] ✅ Check-in with your manager. Be sure to chat about any WTFs you've hit
+- [ ] ✅ Check-in with your manager. Be sure to chat about any WTFs you've hit
   along the way!
-- [x] 💆 Take a deep breath. You did it!
+- [ ] 💆 Take a deep breath. You did it!
 
 ## Sprint Rotations
 
