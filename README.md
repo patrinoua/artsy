@@ -1,13 +1,13 @@
 # artsy
 
-## Break up of Documentation
+## Onboarding Documentation
 
-### [Week 1](https://github.com/patrinoua/artsy/blob/main/onboarding-week1.md)
+### Welcome! [Week 1](https://github.com/patrinoua/artsy/blob/main/onboarding-week1.md)
 
-### [Week 2](https://github.com/patrinoua/artsy/blob/main/onboarding-week2.md)
+### A deeper dive. [Week 2](https://github.com/patrinoua/artsy/blob/main/onboarding-week2.md)
 
-### [Infrastructure](https://github.com/patrinoua/artsy/blob/main/infrastructure.md)
+### Infrastructure [link](https://github.com/patrinoua/artsy/blob/main/infrastructure.md)
 
-### [AWS](https://github.com/patrinoua/artsy/blob/main/aws)
+### AWS [link](https://github.com/patrinoua/artsy/blob/main/aws)
 
-### [.zshrc](https://github.com/patrinoua/artsy/blob/main/.zshrc)
+### .zshrc [link](https://github.com/patrinoua/artsy/blob/main/.zshrc)
