@@ -10,4 +10,9 @@
 
 ### AWS [link](https://github.com/patrinoua/artsy/blob/main/aws)
 
+### AWS-2fa [link](https://github.com/patrinoua/artsy/blob/main/aws-2fa.md)
+
 ### .zshrc [link](https://github.com/patrinoua/artsy/blob/main/.zshrc)
+
+Still missing: 
+VPN
