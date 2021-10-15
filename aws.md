@@ -26,7 +26,7 @@ export AWS_DEFAULT_REGION=us-east-1
 
 check also a set up for your .zshrc file [here](https://github.com/patrinoua/artsy/blob/main/.zshrc)
 
-#### Set up 2FA 
+#### Set up 2FA (move this to separate file)
 
 Set up 2 Factor Authentication (2FA) using this [link](https://console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials)
 
@@ -46,3 +46,32 @@ Select 1 time password on 1password
 add it when prompted
 ![Image](https://github.com/patrinoua/artsy/blob/main/Screenshot%202021-10-15%20at%2015.23.40.png)
 
+#### Install the AWS CLI
+
+For this we need a later version of python than the one already installed so we will do that by installing asdf, a version manager for python, node, ruby and yarn.
+
+```
+# Install asdf, version manager for python, node, ruby, yarn
+
+brew install asdf
+
+# Not sure
+echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
+
+# Add python plugin
+asdf plugin-add python
+
+asdf install python 3.9.5
+
+asdf global python 3.9.5
+
+# See which python version is locally installed
+asdf list python
+
+# See all python versions installed
+asdf list-all python
+
+```
+Now we have the 3.9.5 version of python and we can run
+
+```$ sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws```
