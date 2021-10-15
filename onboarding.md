@@ -11,7 +11,7 @@ know how to use the coffee machine._
 - [ ] 😎 Add a cool pic of yourself to Slack and Jira.
 - [ ] ✅ Update your Slack profile with new personal information such as Github and your AWS username (which your manager should have given you).
 - [ ] 👋 Say hi in [#dev](https://artsy.slack.com/messages/dev) with a :wave:.
-- [ ] ⌨️ Join Slack Channels [Produce/Engineering](https://github.com/artsy/README/blob/main/culture/slack.md),  [Social](notion://www.notion.so/18b56c8d7eb744e08f2f5a4073095d04?v=58f38ea64f494b83817b94b802fb0230)
+- [ ] ⌨️ Join Slack Channels [Product/Engineering](https://github.com/artsy/README/blob/main/culture/slack.md),  [Social](www.notion.so/18b56c8d7eb744e08f2f5a4073095d04?v=58f38ea64f494b83817b94b802fb0230)
 
 
 ## Your first week
