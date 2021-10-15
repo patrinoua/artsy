@@ -1,3 +1,5 @@
+### A deeper dive into the Artsy world!
+
 #### Product & teams:
 
 - [ ] 🔍 Poke around the active sprints in [JIRA](https://artsyproduct.atlassian.net/secure/BrowseProjects.jspa)
