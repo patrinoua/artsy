@@ -75,3 +75,4 @@ asdf list-all python
 Now we have the 3.9.5 version of python and we can run
 
 ```$ sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws```
+which installs ** awscli**
