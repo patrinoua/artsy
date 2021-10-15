@@ -1,5 +1,7 @@
 Mentor:
+
 Manager:
+
 ## Your first day
 
 _Goal: I've met my manager, mentor, and some members of the engineering team
@@ -9,6 +11,8 @@ know how to use the coffee machine._
 - [ ] ✅ Add a cool pic of yourself to Slack and Jira.
 - [ ] ✅ Update your Slack profile with new personal information such as Github and your AWS username (which your manager should have given you).
 - [ ] ✅ Say hi in [#dev](https://artsy.slack.com/messages/dev) with a :wave:.
+
+🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️
 
 ## Your first week
 
