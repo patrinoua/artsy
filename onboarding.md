@@ -147,4 +147,4 @@ learning about Artsy’s stack and systems while also shipping code._
 - [ ] 🔍 Review that team’s [onboarding docs](https://www.notion.so/artsy/Product-470238180cf94c87906ef1d3ee259e05)
 - [ ] 🚀 … go!
 
-### [Next Steps](https://github.com/patrinoua/artsy/blob/main/more_onboarding.md):
+### Next Steps [link](https://github.com/patrinoua/artsy/blob/main/more_onboarding.md):
