@@ -16,3 +16,5 @@
 
 Missing: 
 VPN
+
+ruby version, check pavlos chat
