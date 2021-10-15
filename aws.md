@@ -26,7 +26,7 @@ export AWS_DEFAULT_REGION=us-east-1
 
 check also a set up for your .zshrc file [here](https://github.com/patrinoua/artsy/blob/main/.zshrc)
 
-#### Set up 2FA [link](https://github.com/patrinoua/artsy/blob/main/aws-2fa.md)
+#### ❗️ Please Set up 2 Factor Authentication [link](https://github.com/patrinoua/artsy/blob/main/aws-2fa.md)
 #### Install the AWS CLI
 
 For this we need a later version of python than the one already installed so we will do that by installing asdf, a version manager for python, node, ruby and yarn.
