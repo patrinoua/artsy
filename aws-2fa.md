@@ -1,4 +1,4 @@
-#### Set up 2FA for AWS
+## Set up 2FA for AWS
 
 Set up 2 Factor Authentication (2FA) using this [link](https://console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials)
 
