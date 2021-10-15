@@ -12,7 +12,10 @@ know how to use the coffee machine._
 - [ ] ✅ Update your Slack profile with new personal information such as Github and your AWS username (which your manager should have given you).
 - [ ] ✅ Say hi in [#dev](https://artsy.slack.com/messages/dev) with a :wave:.
 
-🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️🎉😊🎉😊🍾☀️😎❤️
+🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾
+😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉
+🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊🥳🍾🎉😊
+
 
 ## Your first week
 
