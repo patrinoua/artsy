@@ -6,6 +6,8 @@ Point people @izakp @joeyAghion
 
 ## Setup
 
+Example .zshrc file [link](https://github.com/patrinoua/artsy/blob/main/.zshrc)
+
 Terraform and other dependencies are required for in-depth infrastructure work. Many Artsy engineers only need this repository to set up VPN access, which you can do by:
 
 - [ ] Download and install [Terraform](https://www.terraform.io/downloads.html) **64-bit**
