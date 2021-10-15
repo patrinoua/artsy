@@ -14,5 +14,5 @@
 
 ### .zshrc [link](https://github.com/patrinoua/artsy/blob/main/.zshrc)
 
-Still missing: 
+Missing: 
 VPN
