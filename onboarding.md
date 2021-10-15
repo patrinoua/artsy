@@ -153,5 +153,5 @@ learning about Artsy’s stack and systems while also shipping code._
 ### Before you join:
 
 - [ ] ✅ Make sure you are set up with all relevant meetings by joining the appropriate Google group. Use [this link](https://groups.google.com/all-groups) to search and add yourself to the team's Google group. Ping the Tech lead/PM of the product team if you don't get the meeting invites after joining the team's group.
-- [ ] 🔍 If necessary, review that team’s [onboarding docs](https://www.notion.so/artsy/Product-470238180cf94c87906ef1d3ee259e05)
+- [ ] 🔍 Review that team’s [onboarding docs](https://www.notion.so/artsy/Product-470238180cf94c87906ef1d3ee259e05)
 - [ ] 🚀 … go!
