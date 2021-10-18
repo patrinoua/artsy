@@ -69,7 +69,7 @@ _Remember to review *all* setup scripts before executing them :)_
       which provides a base for many artsy projects. Confirm how you want to configure it (ask questions if you're
       unsure about the options), and run it on your computer.
 - [ ] 💻👯 If you haven't had your AWS IAM user set up or Artsy Github access, ping your manager.
-- [ ] 💻👯 Work with your mentor to get set up with [Artsy's VPN](https://github.com/artsy/infrastructure/blob/master/README.md#vpn).
+- [ ] 💻👯 Work with your mentor to get set up with [Artsy's VPN](https://github.com/patrinoua/artsy/blob/main/vpn.md).
 - [ ] 💻 Follow [these instructions](https://github.com/artsy/README/blob/main/playbooks/hokusai.md#setup) to get set up with hokusai, our internal CLI for managing applications deployed to our Kubernetes cluster. Verify your Hokusai setup by finding an artwork in Gravity's database:
   - Clone [Gravity](https://github.com/artsy/gravity)
   - In Gravity's folder try `hokusai staging run "rails c" --tty`
