@@ -86,7 +86,7 @@ _Remember to review *all* setup scripts before executing them :)_
 
 Scan the following list of resources. Ask questions if you'd like more context
 or something is confusing.
-
+- [ ] Check the Onboarding [link](https://github.com/artsy/README/tree/main/onboarding#onboarding)
 - [ ] 📖 Read through the following (and anything else you find interesting) from
       [artsy/README](https://github.com/artsy/README):
   - [ ] 📖 Check out the
