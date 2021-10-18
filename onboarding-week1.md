@@ -68,7 +68,7 @@ _Remember to review *all* setup scripts before executing them :)_
 - [ ] 💻 Follow Artsy Engineering's [initial developer setup](https://github.com/artsy/potential/blob/main/scripts/setup)
       which provides a base for many artsy projects. Confirm how you want to configure it (ask questions if you're
       unsure about the options), and run it on your computer.
-- [ ] Have a look on the Infrastructure [link](https://github.com/artsy/infrastructure/blob/master/README.md)      
+- [ ] Have a look on the [Infrastructure](https://github.com/artsy/infrastructure/blob/master/README.md)      
 - [ ] 💻👯 Work with your mentor to get set up with [Artsy's VPN](https://github.com/patrinoua/artsy/blob/main/vpn.md).
 - [ ] 💻 Follow [these instructions](https://github.com/artsy/README/blob/main/playbooks/hokusai.md#setup) to get set up with hokusai, our internal CLI for managing applications deployed to our Kubernetes cluster. Verify your Hokusai setup by finding an artwork in Gravity's database:
   - Clone [Gravity](https://github.com/artsy/gravity)
