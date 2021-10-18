@@ -13,8 +13,7 @@
 ### AWS-2fa [link](https://github.com/patrinoua/artsy/blob/main/aws-2fa.md)
 
 ### .zshrc [link](https://github.com/patrinoua/artsy/blob/main/.zshrc)
-
-Missing: 
-VPN
+ 
+### VPN [link](https://github.com/patrinoua/artsy/blob/main/vpn.md)
 
 ruby version, check pavlos chat
