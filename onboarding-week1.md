@@ -116,7 +116,7 @@ care this week to get to know the team.
 - [ ] 👯 Work with your mentor to get access to relevant calendars
   - [ ] 📅 [Open Engineering Calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_g81io4a98ddvn1ih1a3lm2ocd4%40group.calendar.google.com&ctz=America%2FNew_York)
   - [ ] 📅 [Out of Office Calendar](https://calendar.google.com/calendar/embed?src=artsymail.com_4l9b71vlvtn9nanc465efqlp80%40group.calendar.google.com&ctz=America%2FNew_York)
-- [x] Add your [working hours](https://support.google.com/calendar/answer/7638168?co=GENIE.Platform%3DDesktop&hl=en&oco=0) to your calendar.
+- [ ] Add your [working hours](https://support.google.com/calendar/answer/7638168?co=GENIE.Platform%3DDesktop&hl=en&oco=0) to your calendar.
 
 ## End of first week
 
