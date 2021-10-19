@@ -10,14 +10,15 @@ OpenVPN is configured on 'bastion' instances in production and staging VPCs with
 
 **2. Add a new VPN user**. Edit [`site-cookbooks/artsy_vpn/attributes/default.rb`](https://github.com/artsy/infrastructure/blob/master/site-cookbooks/artsy_vpn/attributes/default.rb) to include your **AWS username**. You can add your user to the `default[:artsy][:vpn][:users]` array, [here is an example](https://github.com/artsy/infrastructure/commit/5f0e18ef488c32a99aaf84ce558ea57dfa6baedd). Commit the change and push it to git for posterity.
 
-**3. Generate the OpenVPN profiles**. Use `chef` to generate the VPN profiles and store them in the `artsy-citadel` S3 bucket. This needs to be done for staging _and_ production, in the _root_ of this repository:
+**3. Generate the OpenVPN profiles**. Use `chef` to generate the VPN profiles and store them in the `artsy-citadel` S3 bucket. This needs to be done for staging _and_ production, in the _root_ of this repository (infrastructure):
 
 ```sh
+bundle install
 bundle exec knife solo cook ubuntu@vpn-production-2021.artsy.net --no-chef-check
 bundle exec knife solo cook ubuntu@vpn-staging-2021.artsy.net --no-chef-check
 ```
 
-If you are asked for a password, **stop**. This indicates that the `artsyow.pem` SSH keypair from earlier wasn't installed correctly. Return to [the Development Setup section](#development-setup) for instructions.
+If you are asked for a password, **stop**. This indicates that the `artsyow.pem` SSH keypair from earlier wasn't installed correctly. Return to [the Development Setup section](https://github.com/artsy/infrastructure/#development-setup) for instructions.
 
 **4. Download the OpenVPN Profiles from S3**. This can be done through the AWS console, but let's be cool and use the AWS tools we set up earlier:
 
