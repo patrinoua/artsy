@@ -16,4 +16,5 @@
  
 ### VPN [link](https://github.com/patrinoua/artsy/blob/main/vpn.md)
 
-ruby version, check pavlos chat
+### RFC [link](https://github.com/patrinoua/artsy/blob/main/rfc.md)
+
