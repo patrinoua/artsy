@@ -4,13 +4,17 @@ Create a uniform way of referring to things.
 
 ## Goal
 
-The motivation for this is having less ambiguity and not spending time on how to describe different things under different context. 
+The motivation for this is having less ambiguity and not spending time 
+on how to describe different things under different context. 
 It is hoping to allow for easy collaboration between the different developers and designers.
 
 In a big team, that's also growing fast it is important to have clarity between what is what.
 
 ## Current Implementation
-example [ticket](https://github.com/artsy/eigen/pull/5700)
+example ticket https://github.com/artsy/eigen/pull/5700 
+
+Feat: CX-773 enables enableClearButton on input field
+
 ### Jira has some information. 
 Currently some of the information is also stored on Notion and other locations. 
 
