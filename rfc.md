@@ -10,12 +10,13 @@ It is hoping to allow for easy collaboration between the different developers an
 
 In a big team, that's also growing fast it is important to have clarity between what is what.
 
-## Current Implementation
-example ticket https://github.com/artsy/eigen/pull/5700 
+#### Current Implementation
+
+Example ticket https://github.com/artsy/eigen/pull/5700 
 
 Feat: CX-773 enables enableClearButton on input field
 
-### Jira has some information. 
+#### Jira has some information. 
 Currently some of the information is also stored on Notion and other locations. 
 
 For example, here the title is
