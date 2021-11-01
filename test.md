@@ -1,3 +1,4 @@
+
 ---
 nav_title: User Import
 article_title: User Import
@@ -6,6 +7,10 @@ page_type: reference
 description: "This reference article covers the topic of how to Import Users into your Braze dashboard and necessary best practices."
 
 ---
+
+from here https://github.com/braze-inc/braze-docs/blob/develop/_docs/_user_guide/data_and_analytics/user_data_collection/user_import.md
+https://www.braze.com/docs/user_guide/data_and_analytics/user_data_collection/user_import/
+
 # User import
 
 There are two approaches for importing customer data into your Braze dashboard: REST API and CSV.
